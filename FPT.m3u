@@ -17,6 +17,8 @@ udp://@225.1.2.236:30120
 udp://@225.1.1.108:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtvcantho" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2022/10/10/icon_channel_vtv-can-tho_166537074507.jpg",VTV Cần Thơ
 udp://@225.1.2.245:30120
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-logo="",VTV6
+udp://@225.1.2.154:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv7-hd_165655773646.png",VTV7
 udp://@225.1.2.96:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv8-hd_165657496167.png",VTV8
